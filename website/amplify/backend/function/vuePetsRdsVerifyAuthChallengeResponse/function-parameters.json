@@ -1,0 +1,16 @@
+{
+    "trigger": true,
+    "modules": [
+        "captcha-verify"
+    ],
+    "parentResource": "vuePetsRds",
+    "functionName": "vuePetsRdsVerifyAuthChallengeResponse",
+    "resourceName": "vuePetsRdsVerifyAuthChallengeResponse",
+    "parentStack": "auth",
+    "triggerEnvs": [],
+    "triggerDir": "/home/kevin/.config/yarn/global/node_modules/amplify-category-auth/provider-utils/awscloudformation/utils/../triggers/VerifyAuthChallengeResponse",
+    "triggerTemplate": "VerifyAuthChallengeResponse.json.ejs",
+    "roleName": "vuePetsRdsVerifyAuthChallengeResponse",
+    "skipEdit": true,
+    "RECAPTCHASECRET": "Captcha"
+}

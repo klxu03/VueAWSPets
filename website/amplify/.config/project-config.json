@@ -1,0 +1,17 @@
+{
+    "projectName": "website",
+    "version": "3.0",
+    "frontend": "javascript",
+    "javascript": {
+        "framework": "vue",
+        "config": {
+            "SourceDir": "src",
+            "DistributionDir": "dist",
+            "BuildCommand": "quasar build",
+            "StartCommand": "yarn dev"
+        }
+    },
+    "providers": [
+        "awscloudformation"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "trigger": true,
+    "modules": [
+        "captcha-define-challenge"
+    ],
+    "parentResource": "vuePetsRds",
+    "functionName": "vuePetsRdsDefineAuthChallenge",
+    "resourceName": "vuePetsRdsDefineAuthChallenge",
+    "parentStack": "auth",
+    "triggerEnvs": [],
+    "triggerDir": "/home/kevin/.config/yarn/global/node_modules/amplify-category-auth/provider-utils/awscloudformation/utils/../triggers/DefineAuthChallenge",
+    "triggerTemplate": "DefineAuthChallenge.json.ejs",
+    "roleName": "vuePetsRdsDefineAuthChallenge",
+    "skipEdit": true
+}

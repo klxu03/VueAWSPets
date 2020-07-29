@@ -1,0 +1,27 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-website-dev-183250-authRole",
+            "UnauthRoleArn": "arn:aws:iam::411641546291:role/amplify-website-dev-183250-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::411641546291:role/amplify-website-dev-183250-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-website-dev-183250-deployment",
+            "UnauthRoleName": "amplify-website-dev-183250-unauthRole",
+            "StackName": "amplify-website-dev-183250",
+            "StackId": "arn:aws:cloudformation:us-east-1:411641546291:stack/amplify-website-dev-183250/460c83e0-d122-11ea-b147-0af60b3b604b",
+            "AmplifyAppId": "d1e2mtocluuomk"
+        },
+        "categories": {
+            "function": {
+                "vuePetsRdsDefineAuthChallenge": {},
+                "vuePetsRdsCreateAuthChallenge": {},
+                "vuePetsRdsVerifyAuthChallengeResponse": {
+                    "RECAPTCHASECRET": "Captcha"
+                }
+            },
+            "auth": {
+                "websiteae2ee1e5": {}
+            }
+        }
+    }
+}
