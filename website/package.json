@@ -15,7 +15,7 @@
     "@quasar/extras": "^1.0.0",
     "aws-amplify": "^3.0.22",
     "aws-amplify-vue": "^2.1.2",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "core-js": "^3.6.5",
     "quasar": "^1.0.0"
   },
